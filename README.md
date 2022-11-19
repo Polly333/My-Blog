@@ -1,5 +1,5 @@
 # A blog website using Django
-Currently making.
+Currently developing.
 
 UI -
 
