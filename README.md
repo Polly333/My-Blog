@@ -8,6 +8,7 @@ I can :
 - Edit , delete a blog
 - Save a blog as draft and publish it later
 - Reply to comments from reader 
+- Approve or delete comments
 
 Readers can :
 - View the whole list of blogs and each blog
